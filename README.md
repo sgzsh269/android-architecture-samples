@@ -1,11 +1,11 @@
-### Sample app to show basics of Model-View-Presenter (MVP) architectural pattern as described in [my blog article](https://medium.com/@shah.sagar.nilesh/android-mvp-basics-w-sample-app-3698e33ab9db).
+#### Repository to show basics of different tools and architectural patterns to develop robust Android apps.
 
-### The sample app fetches and displays the interesting photos and their comments for the most recent day from the [Flickr API](https://www.flickr.com/services/api/).
+#### Each concept lives in its own branch:-
 
-### App Demo
-![Carousel Demo](/carousel_demo.gif)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Concept|Description
+---|---
+[MVP](/tree/base-mvp)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
+[MVP + Dagger 2](/tree/mvp-with-dagger2)|Sample app to show basics of MVP with Dagger 2  
 
 ### License 
 ```
