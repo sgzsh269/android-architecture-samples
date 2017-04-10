@@ -1,10 +1,10 @@
-#### Repository to show basics of different tools and architectural patterns to develop robust Android apps.
+#### Repository to track concepts that show basics of different tools and architectural patterns to develop robust Android apps.
 
-#### Each concept lives in its own branch:-
 
 Concept|Description
 ---|---
-[MVP](https://github.com/sgzsh269/android-architecture-samples/tree/base-mvp)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
+[MVP](https://github.com/sgzsh269/android-mvp-architecture)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
+[MVP + Dagger2](https://github.com/sgzsh269/android-mvp-with-dagger2)|Sample app to show basics of MVP with Dagger2
 
 ### License 
 ```
