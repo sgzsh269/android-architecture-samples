@@ -5,7 +5,6 @@
 Concept|Description
 ---|---
 [MVP](/tree/base-mvp)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
-[MVP + Dagger 2](/tree/mvp-with-dagger2)|Sample app to show basics of MVP with Dagger 2  
 
 ### License 
 ```
