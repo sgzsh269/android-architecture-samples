@@ -4,7 +4,7 @@
 
 Concept|Description
 ---|---
-[MVP](/tree/base-mvp)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
+[MVP](/sgzsh269/android-architecture-samples/tree/base-mvp)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
 
 ### License 
 ```
