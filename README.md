@@ -3,8 +3,10 @@
 
 Concept|Description
 ---|---
-[MVP](https://github.com/sgzsh269/android-mvp-architecture)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
+[MVP + Dagger2 + RxJava](https://github.com/sgzsh269/android-mvp-dagger2-rxjava)|Sample app to show basics of MVP + Dagger2 + RxJava + Retrolambda
 [MVP + Dagger2](https://github.com/sgzsh269/android-mvp-with-dagger2)|Sample app to show basics of MVP with Dagger2
+[MVP](https://github.com/sgzsh269/android-mvp-architecture)|Sample app to show basics of Model-View-Presenter (MVP) architectural pattern
+
 
 ### License 
 ```
